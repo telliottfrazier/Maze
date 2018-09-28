@@ -1,0 +1,10 @@
+﻿  maze.cpp
+m:\year 2\semester 2\comp 345 - oop\oop maze\maze.cpp(51): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+m:\year 2\semester 2\comp 345 - oop\oop maze\maze.cpp(58): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+m:\year 2\semester 2\comp 345 - oop\oop maze\maze.cpp(80): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+m:\year 2\semester 2\comp 345 - oop\oop maze\maze.cpp(102): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+m:\year 2\semester 2\comp 345 - oop\oop maze\maze.cpp(124): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  App.cpp
+  Generating Code...
+  OOP Maze.vcxproj -> M:\Year 2\Semester 2\Comp 345 - OOP\OOP Maze\Debug\OOP Maze.exe
+  OOP Maze.vcxproj -> M:\Year 2\Semester 2\Comp 345 - OOP\OOP Maze\Debug\OOP Maze.pdb (Partial PDB)
